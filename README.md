@@ -8,4 +8,4 @@
 [Development8x.st](Development8x.st)
 
 Файл для подсветки синтаксиса:
-[Development8x.os](Development8x.os)
+(не представлен)
